@@ -1,12 +1,1 @@
-*.crx
-*.pem
-node_modules
-build
-dist/*.zip
-assets/ext-store/screenshots-psd/
-src/css/*.css
-src/css/*.css.map
-src/js/background.js
-src/js/content.js
-*.map
-src/js/*.js
+
